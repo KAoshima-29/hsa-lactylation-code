@@ -27,4 +27,7 @@ These scripts were run with commonly used versions of STAR (≥2.7), RSEM (≥1.
 MIT — see `LICENSE`.
 
 ## How to cite
-See `CITATION.cff` (Zenodo DOI to be added after the first GitHub release).
+See `CITATION.cff` or cite the archived release: https://doi.org/10.5281/zenodo.16812873
+
+# Code for Lysine lactylation & stress responses in canine hemangiosarcoma  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16812873.svg)](https://doi.org/10.5281/zenodo.16812873) 
