@@ -4,10 +4,14 @@ message: "If you use this code, please cite this repository and the associated m
 authors:
   - family-names: "Aoshima"
     given-names: "Keisuke"
-repository-code: "https://github.com/KAoshima-29/hsa-lactylation-code"
+repository-code: "https://github.com/KAOshima-29/hsa-lactylation-code"
 license: "MIT"
-version: "1.0.0"
+version: "1.0.1"
 date-released: "2025-08-12"
+doi: "10.5281/zenodo.16812873"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.16812873"
 keywords:
   - RNA-seq
   - CUT&Tag
