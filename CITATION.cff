@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "stm-hsa-lactylation-code"
+message: "If you use this code, please cite this repository and the associated manuscript."
+authors:
+  - family-names: "Aoshima"
+    given-names: "Keisuke"
+repository-code: "https://github.com/<your-username>/stm-hsa-lactylation-code"
+license: "MIT"
+version: "1.0.0"
+date-released: "2025-08-12"
+keywords:
+  - RNA-seq
+  - CUT&Tag
+  - edgeR
+  - STAR
+  - RSEM
+  - deepTools
+  - canine hemangiosarcoma

@@ -1,0 +1,23 @@
+# data and results (keep repo light; users fetch from GEO)
+data/*
+metadata/*
+results/*
+raw/
+raw_fastq/
+ref/
+rsem-star-index/
+
+# large/derived files
+*.bam
+*.bai
+*.bw
+*.gz
+*.zip
+*.tar
+*.tar.gz
+
+# R cruft
+.Rhistory
+.RData
+.Rproj.user/
+renv/library/
