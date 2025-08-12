@@ -8,10 +8,10 @@ repository-code: "https://github.com/KAOshima-29/hsa-lactylation-code"
 license: "MIT"
 version: "1.0.3"
 date-released: "2025-08-12"
-doi: "10.5281/zenodo.16812873"
+doi: "10.5281/zenodo.16813072"
 identifiers:
   - type: doi
-    value: "10.5281/zenodo.16812873"
+    value: "10.5281/zenodo.16813072"
 keywords:
   - RNA-seq
   - CUT&Tag
