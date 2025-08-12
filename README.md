@@ -1,10 +1,10 @@
-# Code for STM: Lysine lactylation & stress responses in canine hemangiosarcoma
+# Code for Lysine lactylation & stress responses in canine hemangiosarcoma
 
 This repository contains the analysis and pipelines accompanying our Science Translational Medicine submission on lysine lactylation and ATF4-mediated stress responses in canine hemangiosarcoma (HSA).
 
 ## Data availability
-- **RNA-seq:** GEO **GSE304507** (raw FASTQs and processed matrices/metadata).
-- **CUT&Tag:** GEO **GSE304509** (raw FASTQs).
+- **RNA-seq:** GEO **GSE304507**.
+- **CUT&Tag:** GEO **GSE304509**.
 
 > Note: The code in this repo **does not download data automatically**. Please download from GEO yourself and place files in the locations indicated in each script header.
 
