@@ -4,7 +4,7 @@ message: "If you use this code, please cite this repository and the associated m
 authors:
   - family-names: "Aoshima"
     given-names: "Keisuke"
-repository-code: "https://github.com/<your-username>/stm-hsa-lactylation-code"
+repository-code: "https://github.com/KAoshima-29/hsa-lactylation-code"
 license: "MIT"
 version: "1.0.0"
 date-released: "2025-08-12"
